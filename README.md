@@ -1,4 +1,4 @@
-# DesktopBuddy ( Maybe "Drag'n Droppy" )
+# Drag'n Droppy
 Your little desktop workflow helper waiting to assist...
 
 Mockup_1
