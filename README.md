@@ -1,5 +1,5 @@
 # Drag'n Droppy
-Your little desktop workflow helper waiting to assist...
+Your little desktop workflow helper waiting to assist... A content aware drag and drop widget.
 
 Mockup_1
 
